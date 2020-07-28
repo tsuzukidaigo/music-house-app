@@ -1,3 +1,19 @@
+# 音楽スタジオ検索・レビューwebアプリ
+都内にある音楽スタジオを検索、レビューを行えるアプリです。
+
+---
+
+## メンバー
+* tsuzukidaigo
+* koyo0428
+* 
+
+## 使用技術
+* react
+* firebase
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
